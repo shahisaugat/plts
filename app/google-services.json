@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167473658195",
+    "project_id": "plantios-d7ff8",
+    "storage_bucket": "plantios-d7ff8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167473658195:android:e6b66e8e7a4483c17989a6",
+        "android_client_info": {
+          "package_name": "com.example.plantios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3THU8jhh-ewllIZzs0STo33i8sfYRBIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
